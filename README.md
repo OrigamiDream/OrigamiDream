@@ -4,7 +4,7 @@ I really love Dark, and eventually I will make whole world dark! 😝
 <br>
 <br>
 
-![](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=OrigamiDream&color=55acb7&style=for-the-badge&logo=Github)
+[![](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=OrigamiDream&style=for-the-badge&color=55acb7&logo=Github)](https://github.com/OrigamiDream)
 [![](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/OrigamiDream)
 
 ### Technologies I can do or use
