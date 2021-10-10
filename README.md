@@ -36,8 +36,10 @@ I really love Dark, and eventually I will make whole world dark! 😝
 ### Top Languages Used
 [![](https://github-readme-stats.vercel.app/api/top-langs/?username=OrigamiDream&hide=Java&layout=compact&theme=dark&langs_count=10)](https://github.com/OrigamiDream?tab=repositories)
 
+<!--
 ### Stats
 [![](https://github-readme-stats.vercel.app/api?username=OrigamiDream&count_private=true&show_icons=true&theme=dark)](https://github.com/OrigamiDream?tab=repositories)
+-->
 
 ### Repositories
 [![](https://github-readme-stats.vercel.app/api/pin/?username=DarkenPages&repo=Naver-Dark&theme=dark)](https://github.com/DarkenPages/Naver-Dark)
