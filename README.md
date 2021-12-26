@@ -1,4 +1,38 @@
-## Hi, I am a Swift / Objective-C Software Engineer
+## I'm Currently a Software Developer.
+
+🖥 I only use Apple devices.
+
+✈️ I hope to be Machine Learning Engineer in the future.
+
+## Careers
+- `2015.07 ~ 2019.02`: Serving a Minecraft server platform, as known as [**Avis Games**](https://namu.wiki/w/아르카%20네트워크/아비스%20게임즈) during my teenage years for fun.
+- `2018.02 ~ 2018.06`: [**Yulchon LLC.**](http://yulchon.com) Web Frontend/Backend Development
+- `2019.03 ~ 2019.05`: Speech Recognition and Automation Bot (more details in Resume/CV)
+- `2018.07 ~ 2021.01`: Web Development Freelance (specifically in Blockchain service infrastructure)
+- `2020.01 ~ 2021.01`: Virtual Android Application Streaming Services (more details in Resume/CV)
+- `2021.12 ~ Present`: [Basars](https://github.com/Basars) - Bowel and Stomach Abnormality Recognition System
+
+## Toys
+- `2021.01 ~ Present`: [homebridge-daelim-smarthome](https://github.com/OrigamiDream/homebridge-daelim-smarthome) - Homebridge plugin for HomeKit-unsupported Daelim apartments
+- `2021.07 ~ Present`: [GrovemadeAlerts](https://github.com/OrigamiDream/GrovemadeAlerts) - Grovemade order status summary, notification application for iOS/iPadOS
+- `2019.11 ~ Present`: [Naver-Dark](https://github.com/DarkenPages/Naver-Dark) - Dark mode for NAVER
+- `2019.04 ~ 2020.12`: [aegis-viii](https://github.com/OrigamiDream/aegis-viii) - An implementation of Spiking Neural Network with synaptic plasticity
+- `2019.01 ~ 2019.07`: [ProDisplayXDR-ScreenSaver](https://github.com/OrigamiDream/ProDisplayXDR-ScreenSaver) - Pro Display XDR screensaver for macOS
+- `????.?? ~ Present`: And many other private toy projects!
+
+## Skills
+
+#### Languages
+> Swift, Objective-C, Python, C, C++, Kotlin, Java, JavaScript, TypeScript, Rust, CMake
+
+#### Frameworks
+> Tensorflow, Keras, Pandas, Spring Boot, Angular, React.js
+
+#### IDEs
+> IntelliJ, PyCharm, Xcode, CLion
+
+
+<!-- ## Hi, I am a Swift / Objective-C Software Engineer
 
 I really love Dark, and eventually I will make whole world dark! 😝
 <br>
@@ -35,12 +69,15 @@ I really love Dark, and eventually I will make whole world dark! 😝
 
 ### Top Languages Used
 [![](https://github-readme-stats.vercel.app/api/top-langs/?username=OrigamiDream&hide=Java&layout=compact&theme=dark&langs_count=10)](https://github.com/OrigamiDream?tab=repositories)
+-->
 
 <!--
 ### Stats
 [![](https://github-readme-stats.vercel.app/api?username=OrigamiDream&count_private=true&show_icons=true&theme=dark)](https://github.com/OrigamiDream?tab=repositories)
 -->
 
+<!--
 ### Repositories
 [![](https://github-readme-stats.vercel.app/api/pin/?username=DarkenPages&repo=Naver-Dark&theme=dark)](https://github.com/DarkenPages/Naver-Dark)
 [![](https://github-readme-stats.vercel.app/api/pin/?username=OrigamiDream&repo=Matchmaking&theme=dark)](https://github.com/OrigamiDream/Matchmaking)
+-->
