@@ -10,6 +10,7 @@
 - `2019.03 ~ 2019.05`: Speech Recognition and Automation Bot (more details in Resume/CV)
 - `2018.07 ~ 2021.01`: Web Development Freelance (specifically in Blockchain service infrastructure)
 - `2020.01 ~ 2021.01`: Virtual Android Application Streaming Services (more details in Resume/CV)
+- `2020.11 ~ 2021.01`: Edge AI Computing and Inference Research using products from [Gyrfalcon Technology](https://www.gyrfalcontech.ai)
 - `2021.12 ~ Present`: [Basars](https://github.com/Basars) - Bowel and Stomach Abnormality Recognition System - partnered with [SPASS](https://www.spass.ai)
 
 ## Toys
