@@ -1,8 +1,10 @@
-## I'm Currently a Software Developer.
+## I'm a Software Developer.
 
-🖥 I only use Apple devices.
+🖥 I only use  devices. (If you can see, you are also  user!)
 
-✈️ I hope to be Machine Learning Engineer in the future.
+✈️ I hope to be a Machine Learning Engineer in the future.
+
+🧠 I have a deep knowledge in Neuroscience. The most interested part is Basal Ganglia!
 
 ## Careers
 - `2015.07 ~ 2019.02`: Serving a Minecraft server platform, as known as [**Avis Games**](https://namu.wiki/w/아르카%20네트워크/아비스%20게임즈) during my teenage years for fun.
