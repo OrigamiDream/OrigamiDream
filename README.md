@@ -8,7 +8,7 @@
 
 ## Careers
 - `2015.07 ~ 2019.02`: Serving a Minecraft server platform, as known as [**Avis Games**](https://namu.wiki/w/아르카%20네트워크/아비스%20게임즈) during my teenage years for fun.
-- `2018.02 ~ 2018.06`: [**Yulchon LLC.**](http://yulchon.com) Web Frontend/Backend Development
+- `2018.02 ~ 2018.06`: [**Yulchon LLC.**](http://yulchon.com) Web Frontend/Backend Development Outsourcing
 - `2019.03 ~ 2019.05`: Speech Recognition and Automation Bot (more details in Resume/CV)
 - `2018.07 ~ 2021.01`: Web Development Freelance (specifically in Blockchain service infrastructure)
 - `2020.01 ~ 2021.01`: Virtual Android Application Streaming Services (more details in Resume/CV)
