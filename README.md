@@ -1,6 +1,6 @@
 ## I'm a Software Developer.
 
-🖥 I only use  devices. (If you can see, you are also  user!)
+🖥 I only use  devices. (If you can see the emoji, you are also  user!)
 
 ✈️ I hope to be a Machine Learning Engineer in the future.
 
