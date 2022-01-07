@@ -1,4 +1,4 @@
-## I'm a Software Developer.
+## I'm a Software Engineer.
 
 🖥 I only use  devices. (If you can see the emoji, you are also  user!)
 
