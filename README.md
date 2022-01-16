@@ -18,8 +18,8 @@
 
 ## Toys
 - `2021.01 ~ Present`: [homebridge-daelim-smarthome](https://github.com/OrigamiDream/homebridge-daelim-smarthome) - Homebridge plugin for HomeKit-unsupported Daelim apartments
-- `2021.07 ~ Present`: [GrovemadeAlerts](https://github.com/OrigamiDream/GrovemadeAlerts) - Grovemade order status summary, notification application for iOS/iPadOS
 - `2019.11 ~ Present`: [Naver-Dark](https://github.com/DarkenPages/Naver-Dark) - Dark mode for NAVER
+- `2021.07 ~ 2022.01`: [GrovemadeAlerts](https://github.com/OrigamiDream/GrovemadeAlerts) - Grovemade order status summary, notification application for iOS/iPadOS
 - `2019.04 ~ 2020.12`: [aegis-viii](https://github.com/OrigamiDream/aegis-viii) - An implementation of Spiking Neural Network with synaptic plasticity
 - `2019.01 ~ 2019.07`: [ProDisplayXDR-ScreenSaver](https://github.com/OrigamiDream/ProDisplayXDR-ScreenSaver) - Pro Display XDR screensaver for macOS
 - `????.?? ~ Present`: And many other private toy projects!
