@@ -30,7 +30,7 @@
 > Swift, Objective-C, Python, C, C++, Kotlin, Java, JavaScript, TypeScript, Rust, CMake
 
 #### Frameworks
-> Tensorflow, Keras, Pandas, Spring Boot, Angular, React.js
+> TensorFlow, Keras, Pandas, Spring Boot, Angular, React.js
 
 #### IDEs
 > IntelliJ, PyCharm, Xcode, CLion
