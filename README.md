@@ -35,6 +35,9 @@
 #### IDEs
 > IntelliJ, PyCharm, Xcode, CLion
 
+### Databases
+> MySQL, MSSQL, Redis
+
 
 <!-- ## Hi, I am a Swift / Objective-C Software Engineer
 
