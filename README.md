@@ -34,6 +34,9 @@
 #### Frameworks
 > TensorFlow, Keras, Pandas, Spring Boot, Angular, React.js
 
+#### Infrastructures
+> Docker, Kubernetes
+
 #### IDEs
 > IntelliJ, PyCharm, Xcode, CLion
 
