@@ -4,7 +4,7 @@
 
 ✈️ I hope to be a Machine Learning Engineer in the future.
 
-🧠 I have a deep knowledge in Neuroscience. The most interested part is Basal Ganglia!
+🧠 I have a deep knowledge in Neuroscience. The most interested part is CA1 area in Hippocampus!
 
 📖 I am currently learning about Kubernetes and Kubeflow.
 
