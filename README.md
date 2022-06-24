@@ -19,6 +19,7 @@
 - `2021.12 ~ 2022.02`: [**Dollus**](https://github.com/TeamDollus) - Vivid dreams for your baby - **Edge AI Computing** using products from [Gyrfalcon Technology](https://www.gyrfalcontech.ai)
 
 ## Toys
+- `2021.06 ~ Present`: [gato](https://github.com/OrigamiDream/gato) - Unofficial Gato: A Generalist Agent
 - `2021.05 ~ Present`: [homebridge-coway](https://github.com/OrigamiDream/homebridge-coway) - Homebridge plugin for Coway purifier devices
 - `2021.01 ~ Present`: [homebridge-daelim-smarthome](https://github.com/OrigamiDream/homebridge-daelim-smarthome) - Homebridge plugin for HomeKit-unsupported Daelim apartments
 - `2019.11 ~ Present`: [Naver-Dark](https://github.com/DarkenPages/Naver-Dark) - Dark mode for NAVER
