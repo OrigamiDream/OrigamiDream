@@ -18,6 +18,7 @@
 - `2021.12 ~ 2022.02`: [**Basars**](https://github.com/Basars) - Bowel and Stomach Abnormality Recognition System - partnered with [SPASS](https://www.spass.ai)
 - `2021.12 ~ 2022.02`: [**Dollus**](https://github.com/TeamDollus) - Vivid dreams for your baby - **Edge AI Computing** using products from [Gyrfalcon Technology](https://www.gyrfalcontech.ai)
 - `2022.07 ~ 2022.07`: [**CLOVA AI RUSH 2022**](https://campaign.naver.com/clova_airush/) R1 Finalist (Out of 150 participants)
+- `2022.08 ~ 2022.08`: [**CLOVA AI RUSH 2022**](https://campaign.naver.com/clova_airush/) R2 (Final) 4th place (Out of 70 participants)
 
 ## Toys
 - `2021.06 ~ Present`: [gato](https://github.com/OrigamiDream/gato) - Unofficial Gato: A Generalist Agent
