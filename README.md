@@ -22,7 +22,7 @@
 - `2022.09 ~ 2022.11`: [**CoRT**](https://github.com/OrigamiDream/CoRT) - Contrastive Rhetorical Tagging - from [**AIDA KISTI 2022**](https://aida.kisti.re.kr/contest/main/main.do) with better performance
 
 ## Toys
-- `2021.06 ~ Present`: [gato](https://github.com/OrigamiDream/gato) - Unofficial Gato: A Generalist Agent
+- `2022.06 ~ Present`: [gato](https://github.com/OrigamiDream/gato) - Unofficial Gato: A Generalist Agent
 - `2022.05 ~ Present`: [homebridge-coway](https://github.com/OrigamiDream/homebridge-coway) - Homebridge plugin for Coway purifier devices
 - `2021.01 ~ Present`: [homebridge-daelim-smarthome](https://github.com/OrigamiDream/homebridge-daelim-smarthome) - Homebridge plugin for HomeKit-unsupported Daelim apartments
 - `2019.11 ~ Present`: [Naver-Dark](https://github.com/DarkenPages/Naver-Dark) - Dark mode for NAVER
