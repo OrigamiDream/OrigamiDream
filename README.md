@@ -1,4 +1,4 @@
-## I'm a Software Engineer.
+## I'm a Machine Learning Researcher
 
 🖥 I only use  devices. (If you can see the emoji, you are also  user!)
 
@@ -20,6 +20,7 @@
 - `2022.07 ~ 2022.07`: [**CLOVA AI RUSH 2022**](https://campaign.naver.com/clova_airush/) R1 Finalist (Out of 150 participants)
 - `2022.08 ~ 2022.08`: [**CLOVA AI RUSH 2022**](https://campaign.naver.com/clova_airush/) R2 4th place (Out of 70 participants)
 - `2022.09 ~ 2022.11`: [**CoRT**](https://github.com/OrigamiDream/CoRT) - Contrastive Rhetorical Tagging - from [**AIDA KISTI 2022**](https://aida.kisti.re.kr/contest/main/main.do) with better performance
+- `2022.01 ~ Present`: Medical ML Researcher
 
 ## Toys
 - `2022.06 ~ Present`: [gato](https://github.com/OrigamiDream/gato) - Unofficial Gato: A Generalist Agent
