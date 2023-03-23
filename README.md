@@ -6,7 +6,7 @@
 
 🧠 I have a little knowledge in Neuroscience. The most interested part is CA1 area in Hippocampus!
 
-📖 I am currently learning about Kubernetes and Kubeflow.
+📖 I am currently learning about Meta-Learning such as [Reptile](https://openai.com/research/reptile), [MAML](https://arxiv.org/abs/1703.03400).
 
 ## Careers
 - `2015.07 ~ 2019.02`: Serving a Minecraft server platform, as known as [**Avis Games**](https://namu.wiki/w/아르카%20네트워크/아비스%20게임즈?rev=106) during my teenage years for fun.
@@ -20,7 +20,8 @@
 - `2022.07 ~ 2022.07`: [**CLOVA AI RUSH 2022**](https://campaign.naver.com/clova_airush/) R1 Finalist (Out of 150 participants)
 - `2022.08 ~ 2022.08`: [**CLOVA AI RUSH 2022**](https://campaign.naver.com/clova_airush/) R2 4th place (Out of 70 participants)
 - `2022.09 ~ 2022.11`: [**CoRT**](https://github.com/OrigamiDream/CoRT) - Contrastive Rhetorical Tagging - from [**AIDA KISTI 2022**](https://aida.kisti.re.kr/contest/main/main.do) with better performance
-- `2022.01 ~ Present`: Medical ML Researcher
+- `2023.01 ~ 2023.03`: Aleatoric Uncertainty-aware Human Organ Biological Age Estimation
+- `2023.01 ~ Present`: Medical ML Researcher
 
 ## Toys
 - `2022.06 ~ Present`: [gato](https://github.com/OrigamiDream/gato) - Unofficial Gato: A Generalist Agent
