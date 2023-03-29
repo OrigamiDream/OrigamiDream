@@ -9,19 +9,19 @@
 📖 I am currently learning about Meta-Learning such as [Reptile](https://openai.com/research/reptile), [MAML](https://arxiv.org/abs/1703.03400).
 
 ## Careers
-- `2015.07 ~ 2019.02`: Serving a Minecraft server platform, as known as [**Avis Games**](https://namu.wiki/w/아르카%20네트워크/아비스%20게임즈?rev=106) during my teenage years for fun.
-- `2018.02 ~ 2018.07`: Web Frontend/Backend Development Outsourcing from [**Yulchon LLC.**](http://yulchon.com)
-- `2019.03 ~ 2019.05`: Speech Recognition and Automation Bot (more details in Resume/CV)
-- `2018.07 ~ 2021.01`: Web Development Freelance (specifically in Blockchain service infrastructure)
-- `2020.01 ~ 2021.01`: Virtual Android Application Streaming Services (more details in Resume/CV)
-- `2020.11 ~ 2021.01`: **Edge AI Computing and Inference Research** using products from [Gyrfalcon Technology](https://www.gyrfalcontech.ai)
-- `2021.12 ~ 2022.02`: [**Basars**](https://github.com/Basars) - Bowel and Stomach Abnormality Recognition System - partnered with [SPASS](https://www.spass.ai)
-- `2021.12 ~ 2022.02`: [**Dollus**](https://github.com/TeamDollus) - Vivid dreams for your baby - **Edge AI Computing** using products from [Gyrfalcon Technology](https://www.gyrfalcontech.ai)
-- `2022.07 ~ 2022.07`: [**CLOVA AI RUSH 2022**](https://campaign.naver.com/clova_airush/) R1 Finalist (Out of 150 participants)
-- `2022.08 ~ 2022.08`: [**CLOVA AI RUSH 2022**](https://campaign.naver.com/clova_airush/) R2 4th place (Out of 70 participants)
-- `2022.09 ~ 2022.11`: [**CoRT**](https://github.com/OrigamiDream/CoRT) - Contrastive Rhetorical Tagging - from [**AIDA KISTI 2022**](https://aida.kisti.re.kr/contest/main/main.do) with better performance
-- `2023.01 ~ 2023.03`: Aleatoric Uncertainty-aware Human Organ Biological Age Estimation
-- `2023.01 ~ Present`: Medical ML Researcher
+- `2015.07 ~ 2019.02` 🤩 : Serving a Minecraft server platform, as known as [**Avis Games**](https://namu.wiki/w/아르카%20네트워크/아비스%20게임즈?rev=106) during my teenage years for fun.
+- `2018.02 ~ 2018.07` 💼 : Web Frontend/Backend Development Outsourcing from [**Yulchon LLC.**](http://yulchon.com)
+- `2019.03 ~ 2019.05` 💼 : Speech Recognition and Automation Bot (more details in Resume/CV)
+- `2018.07 ~ 2021.01` 💼 : Web Development Freelance (specifically in Blockchain service infrastructure)
+- `2020.01 ~ 2021.01` 💼 : Virtual Android Application Streaming Services (more details in Resume/CV)
+- `2020.11 ~ 2021.01` 💼 : **Edge AI Computing and Inference Research** using products from [Gyrfalcon Technology](https://www.gyrfalcontech.ai)
+- `2021.12 ~ 2022.02` 🤩 : [**Basars**](https://github.com/Basars) - Bowel and Stomach Abnormality Recognition System - partnered with [SPASS](https://www.spass.ai)
+- `2021.12 ~ 2022.02` 🤩 : [**Dollus**](https://github.com/TeamDollus) - Vivid dreams for your baby - **Edge AI Computing** with [Gyrfalcon Technology](https://www.gyrfalcontech.ai) products
+- `2022.07 ~ 2022.07` 🏆 : [**NAVER CLOVA AI RUSH 2022**](https://campaign.naver.com/clova_airush/) R1 Finalist (Out of 150 participants)
+- `2022.08 ~ 2022.08` 🏆 : [**NAVER CLOVA AI RUSH 2022**](https://campaign.naver.com/clova_airush/) R2 4th place (Out of 70 participants)
+- `2022.09 ~ 2022.11` 🏆 : [**CoRT**](https://github.com/OrigamiDream/CoRT) - Contrastive Rhetorical Tagging - from [**AIDA KISTI 2022**](https://aida.kisti.re.kr/contest/main/main.do) with better performance
+- `2023.01 ~ 2023.03` 💼 : Aleatoric Uncertainty-aware Human Organ Biological Age Estimation
+- `2023.01 ~ Present` 💼 : Medical ML Researcher
 
 ## Toys
 - `2022.06 ~ Present`: [gato](https://github.com/OrigamiDream/gato) - Unofficial Gato: A Generalist Agent
