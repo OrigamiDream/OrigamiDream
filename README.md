@@ -8,6 +8,8 @@
 
 📖 I am currently learning about Meta-Learning such as [Reptile](https://openai.com/research/reptile), [MAML](https://arxiv.org/abs/1703.03400).
 
+😎 I am a moderator on the largest [TensorFlow Discord](https://discord.gg/KNm5Epj) community in the world.
+
 ## Careers
 - `2015.07 ~ 2019.02` 🤩 : Serving a Minecraft server platform, as known as [**Avis Games**](https://namu.wiki/w/아르카%20네트워크/아비스%20게임즈?rev=106) during my teenage years for fun.
 - `2018.02 ~ 2018.07` 💼 : Web Frontend/Backend Development Outsourcing from [**Yulchon LLC.**](http://yulchon.com)
