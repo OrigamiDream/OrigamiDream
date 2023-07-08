@@ -23,7 +23,7 @@
 - `2022.08 ~ 2022.08` 🏆 : [**NAVER CLOVA AI RUSH 2022**](https://campaign.naver.com/clova_airush/) R2 4th place (Out of 70 participants)
 - `2022.09 ~ 2022.11` 🏆 : [**CoRT**](https://github.com/OrigamiDream/CoRT) - Contrastive Rhetorical Tagging - from [**AIDA KISTI 2022**](https://aida.kisti.re.kr/contest/main/main.do) with better performance
 - `2023.01 ~ 2023.03` 💼 : Aleatoric Uncertainty-aware Human Organ Biological Age Estimation
-- `2021.01 ~ 2023.06` 💼 : Development of Anesthesia Tools Recommendation in Contrastive Learning Approaches
+- `2021.01 ~ 2023.06` 💼 : Development of OOD-aware Anesthesia Tools Recommenders in Contrastive Learning Approaches
 - `2023.01 ~ Present` 💼 : Medical ML Researcher
 
 ## Toys
