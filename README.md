@@ -24,7 +24,9 @@
 - `2022.09 ~ 2022.11` 🏆 : [**CoRT**](https://github.com/OrigamiDream/CoRT) - Contrastive Rhetorical Tagging - from [**AIDA KISTI 2022**](https://aida.kisti.re.kr/contest/main/main.do) with better performance [[Demo]](https://cort.origamidream.me)
 - `2023.01 ~ 2023.03` 💼 : Aleatoric Uncertainty-aware Human Organ Biological Age Estimation
 - `2023.01 ~ 2023.06` 💼 : Development of OOD-aware Anesthesia Tools Recommenders in Contrastive Learning Approaches
-- `2023.01 ~ Present` 💼 : Medical ML Researcher
+- `2023.06 ~ Present` 💼 : Eric - Medical Multi-dialogue Dataset Labeling Backoffice
+- `2023.06 ~ Present` 💼 : Eric - Conversational Medical Knowledge AI Assistant
+- `2023.01 ~ Present` 💼 : Working as Machine Learning Researcher in Medical Fields
 
 ## Toys
 - `2022.06 ~ Present`: [gato](https://github.com/OrigamiDream/gato) - Unofficial Gato: A Generalist Agent
