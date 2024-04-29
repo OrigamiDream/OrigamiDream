@@ -25,7 +25,7 @@
 - `2023.01 ~ 2023.03` 💼 : Aleatoric Uncertainty-aware Human Organ Biological Age Estimation
 - `2023.01 ~ 2023.06` 💼 : Development of OOD-aware Anesthesia Tools Recommenders in Contrastive Learning Approaches
 - `2023.06 ~ Present` 💼 : Eric - Medical Multi-dialogue Dataset Labeling Backoffice
-- `2023.06 ~ Present` 💼 : Eric - Conversational Medical Knowledge AI Assistant
+- `2023.06 ~ Present` 💼 : Eric - Conversational Medical Knowledge AI Assistant (Passed Korean Medical Licensing Exams)
 - `2023.01 ~ Present` 💼 : Working as Machine Learning Researcher in Medical Fields
 
 ## Toys
