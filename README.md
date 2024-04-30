@@ -1,12 +1,12 @@
-## I'm a Machine Learning Researcher
+## I'm a Machine Learning Engineer
 
 🖥 I only use  devices. (If you can see the emoji, you are also  user!)
 
-✈️ I hope to be a Machine Learning Engineer in the future.
+✈️ I hope to be able to use A100, H100 GPUs as soon as possible.
 
 🧠 I have a little knowledge in Neuroscience. The most interested part is CA1 area in Hippocampus!
 
-📖 I am currently learning about Meta-Learning such as [Reptile](https://openai.com/research/reptile), [MAML](https://arxiv.org/abs/1703.03400).
+📖 I have currently been involved into Conversational Large Language Models in Medical domain.
 
 😎 I am a Moderator with Helpful Medal on the Largest [TensorFlow Discord](https://discord.gg/KNm5Epj) community in the world.
 
@@ -26,7 +26,7 @@
 - `2023.01 ~ 2023.06` 💼 : Development of OOD-aware Anesthesia Tools Recommenders in Contrastive Learning Approaches
 - `2023.06 ~ Present` 💼 : Eric - Medical Multi-dialogue Dataset Labeling Backoffice
 - `2023.06 ~ Present` 💼 : Eric - Conversational Medical Knowledge AI Assistant (**Outperformed GPT-3.5-Turbo**)
-- `2023.10 ~ 2023.12` 💼 : Pretrained Transformers for Next Chief Complaints Predictions on Medical Check-up
+- `2023.10 ~ 2023.12` 💼 : Pretrained Transformers for Next Chief Complaint Predictions on Medical Check-up
 - `2023.01 ~ Present` 💼 : Working as Machine Learning Researcher in Medical Fields
 
 ## Toys
