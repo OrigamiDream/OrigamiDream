@@ -21,7 +21,7 @@
 - `2021.12 ~ 2022.02` 🤩 : [**Dollus**](https://github.com/TeamDollus) - Vivid dreams for your baby - **Edge AI Computing** with [Gyrfalcon Technology](https://www.gyrfalcontech.ai) products
 - `2022.07 ~ 2022.07` 🏆 : [**NAVER CLOVA AI RUSH 2022**](https://campaign.naver.com/clova_airush/) R1 Finalist (Out of 150 participants)
 - `2022.08 ~ 2022.08` 🏆 : [**NAVER CLOVA AI RUSH 2022**](https://campaign.naver.com/clova_airush/) R2 4th place (Out of 70 participants)
-- `2022.09 ~ 2022.11` 🏆 : [**CoRT**](https://github.com/OrigamiDream/CoRT) - Contrastive Rhetorical Tagging - from [**AIDA KISTI 2022**](https://aida.kisti.re.kr/contest/main/main.do) with better performance [[Demo]](https://cort.origamidream.me)
+- `2022.09 ~ 2022.11` 🏆 : [**CoRT**](https://github.com/OrigamiDream/CoRT) - Contrastive Rhetorical Tagging - from [**AIDA KISTI 2022**](https://aida.kisti.re.kr/contest/main/main.do) with better performance
 - `2023.01 ~ 2023.03` 💼 : Aleatoric Uncertainty-aware Human Organ Biological Age Estimation
 - `2023.01 ~ 2023.06` 💼 : Development of OOD-aware Anesthesia Tools Recommenders in Contrastive Learning Approaches
 - `2023.06 ~ Present` 💼 : Eric - Medical Multi-dialogue Dataset Labeling Backoffice
