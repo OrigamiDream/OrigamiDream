@@ -27,13 +27,13 @@
 - `2023.06 ~ Present` 💼 : Eric - Medical Multi-dialogue Dataset Labeling Backoffice
 - `2023.06 ~ Present` 💼 : Eric - Conversational Medical Knowledge AI Assistant (**Outperformed GPT-3.5-Turbo**)
 - `2023.10 ~ 2023.12` 💼 : Pretrained Transformers for Next Chief Complaint Predictions on Medical Check-up
-- `2023.01 ~ Present` 💼 : Working as Machine Learning Researcher in Medical Fields
+- `2023.01 ~ Present` 💼 : Working as Machine Learning Researcher for Medical Specialist LLMs
 
 ## Toys
-- `2022.06 ~ Present`: [gato](https://github.com/OrigamiDream/gato) - Unofficial Gato: A Generalist Agent
+- `2022.06 ~ 2023.05`: [gato](https://github.com/OrigamiDream/gato) - Unofficial Gato: A Generalist Agent
 - `2022.05 ~ Present`: [homebridge-coway](https://github.com/OrigamiDream/homebridge-coway) - Homebridge plugin for Coway purifier devices
 - `2021.01 ~ Present`: [homebridge-daelim-smarthome](https://github.com/OrigamiDream/homebridge-daelim-smarthome) - Homebridge plugin for HomeKit-unsupported Daelim apartments
-- `2019.11 ~ Present`: [Naver-Dark](https://github.com/DarkenPages/Naver-Dark) - Dark mode for NAVER
+- `2019.11 ~ 2023.10`: [Naver-Dark](https://github.com/DarkenPages/Naver-Dark) - Dark mode for NAVER
 - `2023.05 ~ 2023.05`: [flowchain](https://github.com/OrigamiDream/flowchain) - Method Chaining Extension for TensorFlow
 - `2023.03 ~ 2023.05`: [adam-lr-decay](https://github.com/OrigamiDream/adam-lr-decay) - Adam Optimizer with Layer-wise LR Decay
 - `2021.07 ~ 2022.01`: [GrovemadeAlerts](https://github.com/OrigamiDream/GrovemadeAlerts) - Grovemade order status summary, notification application for iOS/iPadOS
