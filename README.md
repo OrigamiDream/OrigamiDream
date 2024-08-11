@@ -4,9 +4,9 @@
 
 ✈️ I hope to be able to use A100, H100 GPUs as soon as possible.
 
-🧠 I have a little knowledge in Neuroscience. The most interested part is CA1 area in Hippocampus!
+🧠 I am trying to figure out main principles of human brain connectome.
 
-📖 I have currently been involved into Conversational Large Language Models in Medical domain.
+📖 I have developed sLLMs which are specialized in Medicine, and outperformed ChatGPT.
 
 😎 I am a Moderator with Helpful Medal on the Largest [TensorFlow Discord](https://discord.gg/KNm5Epj) community in the world.
 
