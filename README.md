@@ -2,8 +2,6 @@
 
 🖥 I only use  devices. (If you can see the emoji, you are also  user!)
 
-✈️ I hope to be able to use A100, H100 GPUs as soon as possible.
-
 🧠 I am trying to figure out main principles of human brain connectome.
 
 📖 I have developed sLLMs which are specialized in Medicine, and outperformed ChatGPT.
