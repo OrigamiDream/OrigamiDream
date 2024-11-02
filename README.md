@@ -27,6 +27,7 @@
 - `2023.06 ~ Present` 💼 : Eric - Medical Multi-dialogue Dataset Labeling Backoffice
 - `2023.06 ~ Present` 💼 : Eric - Conversational Medical Knowledge AI Assistant (**Outperformed GPT-3.5-Turbo**)
 - `2023.10 ~ 2023.12` 💼 : Pretrained Transformers for Next Chief Complaint Predictions on Medical Check-up
+- `2024.01 ~ 2024.01` 🏆 : 2024 POOM Platform Best Practices Sharing Session - 2nd Award for Eric
 - `2023.01 ~ Present` 💼 : Working as Machine Learning Researcher for Medical Specialist LLMs
 
 ## Toys
