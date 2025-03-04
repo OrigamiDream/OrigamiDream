@@ -26,7 +26,7 @@
 - `2023.06 ~ Present` 💼 : Eric - Conversational Medical Knowledge AI Assistant (**Outperformed ChatGPT**)
 - `2023.10 ~ 2023.12` 💼 : Pretrained Transformers for Next Chief Complaint Predictions on Medical Check-up
 - `2024.01 ~ 2024.01` 🏆 : 2024 POOM Platform Best Practices Sharing Session - Eric - **2nd Prize**
-- `2025.01 ~ 2025.01` 🏆 : Product was selected as an **Honoree** in the CES® 2025 Innovation Awards program.
+- `2025.01 ~ 2025.01` 🏆 : Selected as an **Honoree** in the CES® 2025 Innovation Awards program.
 - `2023.01 ~ Present` 💼 : Working as Machine Learning Researcher for Medical Specialist LLMs
 
 ## Toys
