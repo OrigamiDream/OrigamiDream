@@ -26,8 +26,9 @@
 - `2023.06 ~ 2024.11` 💼 : Eric - Conversational Medical Knowledge AI Assistant (**Outperformed ChatGPT**)
 - `2023.10 ~ 2023.12` 💼 : Pretrained Transformers for Next Chief Complaint Predictions on Medical Check-up
 - `2024.01 ~ 2024.01` 🏆 : 2024 POOM Platform Best Practices Sharing Session - Eric - **2nd Prize**
-- `2025.01 ~ 2025.01` 🏆 : Selected as an **Honoree** in the CES® 2025 Innovation Awards program.
-- `2023.01 ~ Present` 💼 : Working as Machine Learning Researcher for Medical Specialist LLMs
+- `2025.01 ~ 2025.01` 🏆 : Selected as an **Honoree** (twice) in the CES® 2025 Innovation Awards program.
+- `2024.09 ~ 2025.04` 💼 : The most advanced endoscopy solution with Generative AI
+- `2023.01 ~ 2025.04` 💼 : Worked as Machine Learning Researcher for Medical Specialist LLMs
 
 ## Toys
 - `2022.06 ~ 2023.05`: [gato](https://github.com/OrigamiDream/gato) - Unofficial Gato: A Generalist Agent
